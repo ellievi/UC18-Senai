@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\UC18Senai\UC18Senai.csproj" />
+  </ItemGroup>
+
 </Project>
